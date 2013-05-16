@@ -15,7 +15,7 @@
       ,"homepage": "http://bd808.com"
     }
   ]
-  "bin": [
+  ,"bin": [
     "bin/composer_activate.bash"
   ]
 }

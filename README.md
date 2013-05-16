@@ -1,8 +1,8 @@
 Composer-Activate
 =================
 
-[Composer][] allows packages to provide command line scripts called `vendor
-binaries` to pass along to a user who installs the package. By default these
+[Composer][] allows packages to provide command line scripts called "vendor
+binaries" to pass along to a user who installs the package. By default these
 scripts are available in the `vendor/bin` directory.
 
 Composer-Activate provides a script that will add the `vendor/bin` directory
