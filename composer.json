@@ -1,0 +1,21 @@
+{
+  "name": "bd808/composer-activate"
+  ,"description": ""
+  ,"homepage": "https://github.com/bd808/composer-activate"
+  ,"type": "library"
+  ,"license": "MIT"
+  ,"support": {
+    "source": "https://github.com/bd808/composer-activate"
+    ,"issues": "https://github.com/bd808/composer-activate/issues"
+  }
+  ,"authors": [
+    {
+      "name": "Bryan Davis"
+      ,"email": "bd808@bd808.com"
+      ,"homepage": "http://bd808.com"
+    }
+  ]
+  "bin": [
+    "bin/composer_activate.bash"
+  ]
+}
