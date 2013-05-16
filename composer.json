@@ -1,6 +1,6 @@
 {
   "name": "bd808/composer-activate"
-  ,"description": ""
+  ,"description": "Add Composer vendor binary path to $PATH"
   ,"homepage": "https://github.com/bd808/composer-activate"
   ,"type": "library"
   ,"license": "MIT"
